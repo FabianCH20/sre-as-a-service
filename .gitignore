@@ -1,0 +1,8 @@
+.env
+.env_zabbix
+*.kubeconfig
+kubeconfig*
+*.pem
+*.key
+id_ed25519*
+*token*
